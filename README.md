@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving\&color=0\:fbc2eb,100\:a6c1ee\&height=200\&section=header\&text=Aanya%20Rai\&fontSize=40\&fontColor=ffffff)
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=F7A8C5&center=true&vCenter=true&width=600&lines=Full+Stack+Development+Enthusiast;AI+Powered+Applications;Hackathon+Builder;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=FE428E&center=true&vCenter=true&width=600&lines=Full+Stack+Development+Enthusiast;AI+Powered+Applications;Hackathon+Builder;Always+Learning+New+Technologies" />
 </p>
 
 # 💫 About Me
