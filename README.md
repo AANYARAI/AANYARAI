@@ -1,9 +1,4 @@
-<!-- Soft Gradient Header -->
-
 ![header](https://capsule-render.vercel.app/api?type=waving\&color=0\:fbc2eb,100\:a6c1ee\&height=200\&section=header\&text=Aanya%20Rai\&fontSize=40\&fontColor=ffffff)
-
-<!-- Typing Animation -->
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=F7A8C5&center=true&vCenter=true&width=600&lines=Full+Stack+Development+Enthusiast;AI+Powered+Applications;Hackathon+Builder;Always+Learning+New+Technologies" />
 </p>
@@ -135,13 +130,11 @@ Maternal wellness platform designed for accessible health technology.
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AANYARAI&show_icons=true&theme=rose_pine&hide_border=true" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AANYARAI&show_icons=true&theme=radical&hide_border=true" height="170"/>
 
-<img src="https://streak-stats.demolab.com/?user=AANYARAI&theme=rose_pine&hide_border=true" height="170"/>
-</p>
+<img src="https://streak-stats.demolab.com/?user=AANYARAI&theme=radical&hide_border=true" height="170"/>
 
 ---
 
