@@ -116,14 +116,13 @@ A maternal wellness platform designed to support health awareness through though
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=AANYARAI&show_icons=true&theme=tokyonight)
+![Aanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AANYARAI&show_icons=true&theme=tokyonight&hide_border=true)
 
-![](https://streak-stats.demolab.com?user=AANYARAI&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=AANYARAI&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AANYARAI&layout=compact&theme=tokyonight)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AANYARAI&layout=compact&theme=tokyonight&hide_border=true)
 ---
 
 ✨ Always learning. Always building. Always improving.
