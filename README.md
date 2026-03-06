@@ -1,62 +1,11 @@
-# Hi, I'm Aanya Rai 👋
+# 💫 About Me:
+Hi, I'm Aanya Rai 👋<br>💻 Full Stack Development Enthusiast | 🤖 AI-powered Applications | 🚀 Project Builder<br><br>I am a Computer Science student passionate about building practical and impactful technology. I enjoy developing modern web applications, experimenting with AI-powered features, and transforming ideas into functional products.<br><br>I focus on writing clean, maintainable code and building intuitive user experiences while continuously improving my development and problem-solving skills.<br><br>🌟 Highlights<br>🎯 PR Lead — E-Cell GGITS<br>🏆 11th Rank — NEC 2025, IIT Bombay<br>🏆 Top 20 — E-Summit, IIT Indore<br>💡 Selected at Internal Level — Smart India Hackathon (SIH) 2025<br>🌍 Finalist — NASA Space Apps Challenge<br>💻 Active Hackathon Participant with multiple project prototypes<br><br>🔭 Currently Working On<br>🤖 AI-powered educational tools for interactive learning<br>🌐 Modern web applications with clean and responsive interfaces<br>🚀 Personal projects focused on real-world impact<br><br>📌 Featured Projects<br>🌌 StellaVerse<br>A creative space-themed web project focused on interactive UI and immersive design.<br><br>🌍 Cosmic Mirror Earth<br>A visual project exploring Earth and space concepts through engaging web experiences.<br><br>🌸 Ma-Eternal<br>A maternal wellness platform designed to support health awareness through thoughtful design and accessible web technology.<br><br>🌱 Currently Learning<br>• MERN Stack (MongoDB, Express, React, Node.js)<br>• Data Structures & Algorithms<br>• Building scalable and responsive web applications
 
-💻 Full Stack Development Enthusiast | 🤖 AI-powered Applications | 🚀 Project Builder
 
-I am a Computer Science student passionate about building practical and impactful technology. I enjoy developing modern web applications, experimenting with AI-powered features, and transforming ideas into functional products.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aanya-rai-604573294/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aanyarai223@gmail.com) 
 
-I focus on writing clean, maintainable code and building intuitive user experiences while continuously improving my development and problem-solving skills.
-
----
-
-## 🌟 Highlights
-
-🎯 PR Lead — E-Cell GGITS  
-🏆 11th Rank — NEC 2025, IIT Bombay  
-🏆 Top 20 — E-Summit, IIT Indore  
-💡 Selected at Internal Level — Smart India Hackathon (SIH) 2025  
-🌍 Finalist — NASA Space Apps Challenge  
-💻 Active Hackathon Participant with multiple project prototypes
-
----
-
-## 🔭 Currently Working On
-
-🤖 AI-powered educational tools for interactive learning  
-🌐 Modern web applications with clean and responsive interfaces  
-🚀 Personal projects focused on real-world impact
-
----
-
-## 📌 Featured Projects
-
-🌌 **StellaVerse**  
-A creative space-themed web project focused on interactive UI and immersive design.
-
-🌍 **Cosmic Mirror Earth**  
-A visual project exploring Earth and space concepts through engaging web experiences.
-
-🌸 **Ma-Eternal**  
-A maternal wellness platform designed to support health awareness through thoughtful design and accessible web technology.
-
----
-
-## 🌱 Currently Learning
-
-• MERN Stack (MongoDB, Express, React, Node.js)  
-• Data Structures & Algorithms  
-• Building scalable and responsive web applications
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aanya-rai-604573294)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aanyarai223@gmail.com)
-
----
-
-# 💻 Tech Stack
-
+# 💻 Tech Stack:
 ### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -113,16 +62,12 @@ A maternal wellness platform designed to support health awareness through though
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AANYARAI&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AANYARAI&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AANYARAI&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 📊 GitHub Stats
-
-![Aanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AANYARAI&show_icons=true&theme=radical&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AANYARAI&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AANYARAI&layout=compact&theme=radical&hide_border=true)
----
-
-✨ Always learning. Always building. Always improving.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
