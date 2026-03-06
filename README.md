@@ -1,14 +1,12 @@
 <!-- Soft Gradient Header -->
 
-![header](https://capsule-render.vercel.app/api?type=waving\&color=0\:fbc2eb,100\:a6c1ee\&height=220\&section=header\&text=Aanya%20Rai\&fontSize=42\&fontColor=ffffff\&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving\&color=0\:fbc2eb,100\:a6c1ee\&height=200\&section=header\&text=Aanya%20Rai\&fontSize=40\&fontColor=ffffff)
 
 <!-- Typing Animation -->
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=F7A8C5&center=true&vCenter=true&width=600&lines=Full+Stack+Development+Enthusiast;AI+Powered+Applications;Hackathon+Builder;Always+Learning+New+Technologies" />
 </p>
-
----
 
 # 💫 About Me
 
@@ -43,13 +41,13 @@ I focus on writing clean, maintainable code and building intuitive user experien
 ## 📌 Featured Projects
 
 🌌 **StellaVerse**
-Creative space-themed web project with immersive UI.
+Creative space-themed web project focused on immersive UI.
 
 🌍 **Cosmic Mirror Earth**
 Interactive web experience exploring Earth and space.
 
 🌸 **Ma-Eternal**
-Maternal wellness platform focused on accessible health technology.
+Maternal wellness platform designed for accessible health technology.
 
 ---
 
@@ -57,7 +55,14 @@ Maternal wellness platform focused on accessible health technology.
 
 • MERN Stack (MongoDB, Express, React, Node.js)
 • Data Structures & Algorithms
-• Scalable web applications and system design
+• Building scalable web applications
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/aanya-rai-604573294/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:aanyarai223@gmail.com)
 
 ---
 
@@ -78,51 +83,66 @@ Maternal wellness platform focused on accessible health technology.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/next.js-black?style=for-the-badge\&logo=next.js\&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge\&logo=three.js\&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge\&logo=vite\&logoColor=white)
 
-### Backend
+### Backend & APIs
 
 ![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-grey?style=for-the-badge\&logo=express\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge\&logo=flask)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=jsonwebtokens)
 
 ### Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
 
-### Deployment
+### Cloud & Deployment
 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge\&logo=alibabacloud\&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge\&logo=google-cloud\&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge\&logo=firebase)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge\&logo=netlify)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel)
+
+### Data / AI Tools
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge\&logo=numpy)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge\&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge\&logo=matplotlib\&logoColor=black)
+
+### Design & Tools
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge\&logo=figma)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge\&logo=canva)
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge\&logo=framer)
+![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge\&logo=dribbble)
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge\&logo=adobe)
+
+### Dev Tools
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge\&logo=gitlab)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge\&logo=cisco)
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AANYARAI&show_icons=true&theme=rose_pine&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=AANYARAI&theme=rose_pine&hide_border=true" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AANYARAI&show_icons=true&theme=rose_pine&hide_border=true" height="170"/>
+
+<img src="https://streak-stats.demolab.com/?user=AANYARAI&theme=rose_pine&hide_border=true" height="170"/>
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
-
-![trophy](https://github-profile-trophy.vercel.app/?username=AANYARAI\&theme=rose_pine\&no-frame=true\&margin-w=10)
-
----
-
-# 👀 Profile Visitors
-
-![](https://komarev.com/ghpvc/?username=AANYARAI\&label=Profile%20views\&color=ffb6c1\&style=flat)
-
----
-
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/AANYARAI/AANYARAI/blob/output/github-contribution-grid-snake.svg)
-
----
-
-✨ **Always learning. Always building. Always improving.**
-
-![footer](https://capsule-render.vercel.app/api?type=waving\&color=0\:a6c1ee,100\:fbc2eb\&height=120\&section=footer)
+✨ Always learning. Always building. Always improving.
