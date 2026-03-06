@@ -118,13 +118,11 @@ A maternal wellness platform designed to support health awareness through though
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
+![Aanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AANYARAI&show_icons=true&theme=radical&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api?username=AANYARAI&show_icons=true&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=AANYARAI&theme=radical&hide_border=true)
 
-![](https://streak-stats.demolab.com?user=AANYARAI&theme=ambient_gradient&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AANYARAI&layout=compact&theme=ambient_gradient&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AANYARAI&layout=compact&theme=radical&hide_border=true)
 ---
 
 ✨ Always learning. Always building. Always improving.
