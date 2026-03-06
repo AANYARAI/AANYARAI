@@ -118,11 +118,11 @@ A maternal wellness platform designed to support health awareness through though
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=AANYARAI&theme=ambient_gradient&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=AANYARAI&show_icons=true&theme=tokyonight)
 
-![](https://nirzak-streak-stats.vercel.app/?user=AANYARAI&theme=ambient_gradient)
+![](https://streak-stats.demolab.com?user=AANYARAI&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AANYARAI&theme=ambient_gradient&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AANYARAI&layout=compact&theme=tokyonight)
 
 ---
 
