@@ -71,9 +71,6 @@ Maternal wellness platform designed for accessible health technology.
 # 💻 Tech Stack
 
 ### Languages
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
@@ -86,7 +83,6 @@ Maternal wellness platform designed for accessible health technology.
 ![Next JS](https://img.shields.io/badge/next.js-black?style=for-the-badge\&logo=next.js\&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge\&logo=three.js\&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge\&logo=vite\&logoColor=white)
 
 ### Backend & APIs
@@ -100,16 +96,13 @@ Maternal wellness platform designed for accessible health technology.
 ### Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-4479A1.svg?style=for-the-badge\&logo=sql\&logoColor=white)
 
 ### Cloud & Deployment
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
 ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge\&logo=alibabacloud\&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge\&logo=google-cloud\&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge\&logo=firebase)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge\&logo=netlify)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel)
@@ -118,14 +111,12 @@ Maternal wellness platform designed for accessible health technology.
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge\&logo=numpy)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge\&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge\&logo=matplotlib\&logoColor=black)
 
 ### Design & Tools
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge\&logo=figma)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge\&logo=canva)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge\&logo=framer)
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge\&logo=dribbble)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge\&logo=adobe)
 
 ### Dev Tools
